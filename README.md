@@ -1,4 +1,3 @@
-```markdown
 # Red-Teaming gpt-oss-20b: Reproduction Code
 
 This repository contains the code and instructions to reproduce the findings for our submission to the "Red‑Teaming Challenge - OpenAI gpt-oss-20b" on Kaggle.
